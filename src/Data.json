@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "options": [
+            { "answer": "I like receiving hugs.", "loveLanguage": "Physical Touch" },
+            { "answer": "I feel loved when I receive compliments.", "loveLanguage": "Words of Affirmation" }
+        ]
+    },
+    {
+        "id": 2,
+        "options": [
+            { "answer": "I enjoy spending time with someone special.", "loveLanguage": "Quality Time" },
+            { "answer": "I feel appreciated when someone helps me with tasks.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 3,
+        "options": [
+            { "answer": "Receiving a gift makes me feel valued.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "I appreciate a caring touch on the shoulder.", "loveLanguage": "Physical Touch" }
+        ]
+    },
+    {
+        "id": 4,
+        "options": [
+            { "answer": "Hearing 'I love you' means a lot to me.", "loveLanguage": "Words of Affirmation" },
+            { "answer": "Spending uninterrupted time with someone is the best.", "loveLanguage": "Quality Time" }
+        ]
+    },
+    {
+        "id": 5,
+        "options": [
+            { "answer": "I like it when someone surprises me with a gift.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "Having someone do things for me feels great.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 6,
+        "options": [
+            { "answer": "Physical closeness makes me feel connected.", "loveLanguage": "Physical Touch" },
+            { "answer": "Supportive words lift me up.", "loveLanguage": "Words of Affirmation" }
+        ]
+    },
+    {
+        "id": 7,
+        "options": [
+            { "answer": "Spending time with loved ones is a priority.", "loveLanguage": "Quality Time" },
+            { "answer": "Receiving help with a task feels like love to me.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 8,
+        "options": [
+            { "answer": "A thoughtful gift touches my heart.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "Holding hands with someone special makes me happy.", "loveLanguage": "Physical Touch" }
+        ]
+    },
+    {
+        "id": 9,
+        "options": [
+            { "answer": "I cherish heartfelt compliments.", "loveLanguage": "Words of Affirmation" },
+            { "answer": "Uninterrupted time with someone makes me feel special.", "loveLanguage": "Quality Time" }
+        ]
+    },
+    {
+        "id": 10,
+        "options": [
+            { "answer": "A surprise gift brightens my day.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "I appreciate someone who takes on chores for me.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 11,
+        "options": [
+            { "answer": "A warm hug makes me feel loved.", "loveLanguage": "Physical Touch" },
+            { "answer": "Words of encouragement mean a lot to me.", "loveLanguage": "Words of Affirmation" }
+        ]
+    },
+    {
+        "id": 12,
+        "options": [
+            { "answer": "Quality time with others makes me feel valued.", "loveLanguage": "Quality Time" },
+            { "answer": "When someone helps me out, it shows they care.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 13,
+        "options": [
+            { "answer": "Receiving a meaningful gift feels special.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "I enjoy the warmth of a caring touch.", "loveLanguage": "Physical Touch" }
+        ]
+    },
+    {
+        "id": 14,
+        "options": [
+            { "answer": "I feel loved when someone speaks kindly to me.", "loveLanguage": "Words of Affirmation" },
+            { "answer": "I value undivided attention from loved ones.", "loveLanguage": "Quality Time" }
+        ]
+    },
+    {
+        "id": 15,
+        "options": [
+            { "answer": "A surprise gift shows me I’m appreciated.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "I love when someone helps with my to-do list.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 16,
+        "options": [
+            { "answer": "I feel close through physical touch.", "loveLanguage": "Physical Touch" },
+            { "answer": "Hearing affirmations makes my day.", "loveLanguage": "Words of Affirmation" }
+        ]
+    },
+    {
+        "id": 17,
+        "options": [
+            { "answer": "Spending quality time means a lot to me.", "loveLanguage": "Quality Time" },
+            { "answer": "I love it when others help me out.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 18,
+        "options": [
+            { "answer": "Gifts remind me I’m special to someone.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "I love hugs and physical affection.", "loveLanguage": "Physical Touch" }
+        ]
+    },
+    {
+        "id": 19,
+        "options": [
+            { "answer": "Kind words make me feel appreciated.", "loveLanguage": "Words of Affirmation" },
+            { "answer": "Being with others uninterrupted is a joy.", "loveLanguage": "Quality Time" }
+        ]
+    },
+    {
+        "id": 20,
+        "options": [
+            { "answer": "I feel valued when someone gives me a thoughtful gift.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "Getting help with tasks makes me feel loved.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 21,
+        "options": [
+            { "answer": "Physical closeness makes me happy.", "loveLanguage": "Physical Touch" },
+            { "answer": "Hearing praise and encouragement lifts me up.", "loveLanguage": "Words of Affirmation" }
+        ]
+    },
+    {
+        "id": 22,
+        "options": [
+            { "answer": "I feel connected spending time with others.", "loveLanguage": "Quality Time" },
+            { "answer": "Having someone assist me shows they care.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 23,
+        "options": [
+            { "answer": "Gifts remind me I am loved.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "A loving touch brings me comfort.", "loveLanguage": "Physical Touch" }
+        ]
+    },
+    {
+        "id": 24,
+        "options": [
+            { "answer": "Positive words make me feel good.", "loveLanguage": "Words of Affirmation" },
+            { "answer": "One-on-one time with someone is special to me.", "loveLanguage": "Quality Time" }
+        ]
+    },
+    {
+        "id": 25,
+        "options": [
+            { "answer": "Surprise gifts are meaningful to me.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "When others help, it shows they care.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 26,
+        "options": [
+            { "answer": "I feel close through physical affection.", "loveLanguage": "Physical Touch" },
+            { "answer": "Encouraging words make me feel appreciated.", "loveLanguage": "Words of Affirmation" }
+        ]
+    },
+    {
+        "id": 27,
+        "options": [
+            { "answer": "Quality time makes me feel important.", "loveLanguage": "Quality Time" },
+            { "answer": "Help with my responsibilities is meaningful.", "loveLanguage": "Acts of Service" }
+        ]
+    },
+    {
+        "id": 28,
+        "options": [
+            { "answer": "Receiving gifts shows me someone cares.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "I enjoy physical closeness.", "loveLanguage": "Physical Touch" }
+        ]
+    },
+    {
+        "id": 29,
+        "options": [
+            { "answer": "Hearing 'I appreciate you' means a lot to me.", "loveLanguage": "Words of Affirmation" },
+            { "answer": "Sharing time together is meaningful.", "loveLanguage": "Quality Time" }
+        ]
+    },
+    {
+        "id": 30,
+        "options": [
+            { "answer": "Gifts make me feel appreciated.", "loveLanguage": "Receiving Gifts" },
+            { "answer": "Acts of kindness help me feel loved.", "loveLanguage": "Acts of Service" }
+        ]
+    }
+]
